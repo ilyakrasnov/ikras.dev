@@ -3,7 +3,7 @@ layout: post
 title:  "Can I Get an Empty Cup, Please?"
 date:   2019-11-02 09:31:56 +0300
 img: coffee.jpg # Add image post (optional)
-tags: test books
+# tags: test books
 credit: Artūrs Ķipsts
 ---
 We were driving for almost 3 hours when we stopped at gas station in the middle of the desert to take a short break. I went out to get some coffee. The paper cup was really hot. So without thinking twice I asked him if I can get an empty cup. My plan was to put the first one into the second one so I don't get burned. 
