@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "SSH config on Mac"
-date:   2019-10-30 09:31:56 +0300
+date:   2019-06-30 09:31:56 +0300
 img: switches.jpg
 tags: mac
 credit: Jordan Harrison 
