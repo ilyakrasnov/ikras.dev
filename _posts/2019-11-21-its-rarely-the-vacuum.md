@@ -8,11 +8,11 @@ credit: Lukas ter Poorten
 
 ---
 
-Last week our vacuum suddenly stopped working. You plug it in, press the on button and it doesn't work. The first thought was: its broken. The next thought was about how we can repare it or where and when should we get a new one. 
+Last week our vacuum cleaner suddenly stopped working. You plug it in, press the on button and it doesn't work. The first thought was: its broken. The next thought was about how we can repare it or where and when should we get a new one. 
 
 But then it hit me - lets look around. The next minute or so I tried to answer a series of questions in order to try to find the real problem.
 
-* Is the small lamp on the extension cord on? It should indicate if there vacuum gets power. No, it was not.
+* Is the small lamp on the extension cord on? It should indicate if the vacuum gets power. No, it was not.
 * Are the lights on the router blinking? It should tell me if there is electricity through out the room. No, they wern't.
 * Did a fuse pop? Let's check the fuse box. No, all were up.
 * Lets go to the stairs where the power meters for the apartments are located. Here we go, all meters were standing still. 
