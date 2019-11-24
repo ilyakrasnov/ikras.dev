@@ -33,10 +33,10 @@ Start as close as possible to the place where you are experiencing the bug. If y
 
 #### 2. Move out slowly
 
-Keep repeating step 1.
+Slowly zoom out and move further away from the place you see the bug. 
 
 
-#### 3. Find the issue
+#### 3. Keep repeating step 1 and 2 until you find the issue
 
 It's easier said than done, but at some point while doing step 2 (repeating step 1) you will find yourself between two states - a working one and the next one that doesn't work. Congratutalations, you just found where the problem actually lies.
 
