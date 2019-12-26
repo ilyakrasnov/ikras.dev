@@ -2,6 +2,7 @@
 layout: post
 title: Refactor If Conditions
 date: 2016-07-15 09:31:56 +0300
+credit: Benjamin Smith
 ---
 
 
