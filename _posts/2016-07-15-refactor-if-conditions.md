@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Refactor If Conditions
-date: 2016-07-15
+date: 2016-07-15 09:31:56 +0300
 ---
+
 
 Doing a lot of refactoring work myself and guiding a group coding bootcamp students through their final project I came across different steps one could take to make the code much cleaner and the app more readable and understandable.
 
