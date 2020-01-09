@@ -20,6 +20,12 @@ Another great example is Git. For a long time `git checkout` was used for differ
 
 Recently Git [introduced](https://public-inbox.org/git/xmqqy2zszuz7.fsf@gitster-ct.c.googlers.com/) two new commands: `git switch` and `git restore`. Both are just aliases but their meaning is much more clear now. 
 
+> Two new commands "git switch" and "git restore" are introduced to
+   split "checking out a branch to work on advancing its history" and
+   "checking out paths out of the index and/or a tree-ish to work on
+   advancing the current history" out of the single "git checkout"
+   command.
+
 Git used to force its users to speak it's internal language. Today, after about 15 years of development, this is one of the most basic and used tools in our developer's tool boxes and everyone pretty much accepted the somewhat weird language. But even an accomplished and well used tool can become better, more newcomer friendly and usable. 
 
 Kudos Git!
