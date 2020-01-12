@@ -28,4 +28,6 @@ Recently Git [introduced](https://public-inbox.org/git/xmqqy2zszuz7.fsf@gitster-
 
 Git used to force its users to speak it's internal language. Today, after about 15 years of development, this is one of the most basic and used tools in our developer's tool boxes and everyone pretty much accepted the somewhat weird language. But even an accomplished and well used tool can become better, more newcomer friendly and usable. 
 
-Kudos Git!
+So the next time you write a function or expose a pubic API endpoint, ask yourself: what does the user of this endpoint need to accomplish. 
+
+Be like Git!
