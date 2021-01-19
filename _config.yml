@@ -11,7 +11,7 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: Ilya Krasnov # add your name
 author-img: ilya.jpeg # add your photo
-about-author: Software Developer and Team Lead at  <a class="plain-link" href="https://www.autoleadstar.com" target="_blank">AutoLeadStar</a>. # add description
+about-author: Backend Developer at  <a class="plain-link" href="https://www.cloudinary.com" target="_blank">Cloudinary</a>. # add description
 /social-twitter: # add your Twitter handle
 # social-facebook: # add your Facebook handle
 social-github: ilyakrasnov # add your Github handle
@@ -34,4 +34,4 @@ plugins:
 paginate: 8
 paginate_path: "/page/:num"
 
-exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
+exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock", "vendor"]
